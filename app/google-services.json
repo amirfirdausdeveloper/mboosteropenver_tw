@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "754764479479",
+    "firebase_url": "https://mboostertw-a9cfd.firebaseio.com",
+    "project_id": "mboostertw-a9cfd",
+    "storage_bucket": "mboostertw-a9cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754764479479:android:6bd1bc0d3a07c31e",
+        "android_client_info": {
+          "package_name": "org.app.mboostertwv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754764479479-4a59jue8mej3e502qhk9r7q5ov741pkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.app.mboostertwv2",
+            "certificate_hash": "0eb1df404a39171ff9c991a1b2b147c4adf76f06"
+          }
+        },
+        {
+          "client_id": "754764479479-2fk71l68ualag5jmil7q1k8469docm1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjqa1dha6f7O1DfJgLUi4qBGjGAO6v30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754764479479-2fk71l68ualag5jmil7q1k8469docm1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

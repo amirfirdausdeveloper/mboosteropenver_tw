@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingStart="@dimen/shopping_cart_alert_padding"
+    android:paddingEnd="@dimen/shopping_cart_alert_padding">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="@color/colorRed"
+        android:text="@string/register"/>
+
+
+
+</LinearLayout>
